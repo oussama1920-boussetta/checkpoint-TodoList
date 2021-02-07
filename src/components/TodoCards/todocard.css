@@ -1,0 +1,29 @@
+.todo-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+  }
+  
+  .fa-trash-alt {
+    color: red;
+    font-size: 25px;
+  }
+  
+  .todo-text {
+    font-size: x-large;
+    outline: none;
+    width: 200px;
+    border: none;
+  }
+  
+  .btn-danger {
+    color: rgb(8, 6, 6);
+    background: rgb(233, 79, 58);
+  }
+  
+  .btn-danger:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(233, 79, 58);
+  }
+  
